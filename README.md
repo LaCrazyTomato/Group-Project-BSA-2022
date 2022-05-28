@@ -1,7 +1,7 @@
 # Group-Project-BSA-2022
 Group Project for 2022 - Big Scale Analytics
 
-# Milestone 2
+# Final Delivery
 
 So far, the project is going well. We managed to deployed our app in the Google Cloud Console and we are currently improving the whole setup. 
 
