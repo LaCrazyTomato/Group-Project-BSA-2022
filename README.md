@@ -26,8 +26,4 @@ The App is running and working. We are currently working on a bit of design and 
 [to add (Olivier)
 An evaluation of your solution (accuracy, precision, recall, F1-score, etc.)
 
-# Important Note:
-If you want to test our code, you need to download the key here and add it to the root of the code folder: 
-[Key: https://we.tl/t-KQFnrrI59D]
-
 
