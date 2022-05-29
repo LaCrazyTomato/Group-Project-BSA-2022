@@ -1,0 +1,5 @@
+flask
+gunicorn==20.1.0
+google-cloud-aiplatform
+google-cloud
+numpy
