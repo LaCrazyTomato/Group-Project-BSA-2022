@@ -5,3 +5,6 @@ https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-python-ser
 Note: it can be run in local if you have the requirements installed.
 
 The demo with the code in the video was made in local.
+
+# The key must be added
+Here is the key you can download: https://we.tl/t-KQFnrrI59D
