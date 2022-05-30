@@ -45,6 +45,7 @@ We achieved a Precision of 64.89% and a Recall 30.87%, the other scores can be f
 This results in a F1 score of 41,83%
 
 For futher information here is the confusion matrix:
+
 ![image](https://user-images.githubusercontent.com/45934944/170934179-de59a854-96cf-4f4b-870d-87b25978ca06.png)
 
 
