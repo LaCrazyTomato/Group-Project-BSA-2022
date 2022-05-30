@@ -21,9 +21,20 @@ Here are the different steps that we did:
 
 The App is running and working. We are currently working on a bit of design and adding some basic functionnalities and trying to re-traing the model after tunning (adding extra labels such as length, etc.) in order to get better results.
 
-# Details:
+# Model details:
 
-[to add (Olivier)
-An evaluation of your solution (accuracy, precision, recall, F1-score, etc.)
+We can only modify the training data provided to the model, and the confidence treshold, therefore we tried different text
+data preparation, in order to achieve the best results.
+
+The best text transformation to combine where quite simple: lower case all the document and replace any special symbol by a ' '.
+
+We achieved a Precision of 64.89% and a Recall 30.87%, the other scores can be found on the notebook about text preparation.
+This results in a F1 score of 41,83%
+
+For futher information here is the confusion matrix:
+![image](https://user-images.githubusercontent.com/45934944/170934179-de59a854-96cf-4f4b-870d-87b25978ca06.png)
+
+
+
 
 
